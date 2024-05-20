@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=NIKK0001&color=blueviolet) 
 
-I'm *Nishant, a passionate **data scientist* and *machine learning enthusiast*. Here's a glimpse into my world:
+I'm *Nikhil, a passionate **data scientist* and *machine learning enthusiast*. Here's a glimpse into my world:
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
