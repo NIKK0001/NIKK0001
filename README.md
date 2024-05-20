@@ -34,8 +34,8 @@ I'm *Nikhil, a passionate **data scientist* and *machine learning enthusiast*. H
 [<img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" width="50">](#)
 
 ## *GitHub Stats:*
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIKK0001&show_icons=true&theme=radical)
-![Nishant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NIKK0001&theme=radical)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIKK0001&show_icons=true&theme=radical)
+![Nikhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NIKK0001&theme=radical)
 
 ## *Connect with me:*
 <p>
